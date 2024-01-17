@@ -1,3 +1,7 @@
 __pycache__
 .env
 .learn
+/workspaces/Isa-machine-learning-template/data/raw/AB_NYC_2019.csv
+/workspaces/Isa-machine-learning-template/src/AB_NYC_2019.csv
+/workspaces/Isa-machine-learning-template/data/raw/AB_NYC_2019_clean_test.csv
+/workspaces/Isa-machine-learning-template/data/raw/AB_NYC_2019_clean_train.csv
